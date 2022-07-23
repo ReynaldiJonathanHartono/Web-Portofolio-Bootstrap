@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #fc8739;
+}
+
+.img-thumbnail {
+  background-color: black;
+}
+
+#projects {
+  background-color: #fc8739;
+}
+
+.card {
+  background-color: #fc8739;
+  border: none;
+}
+
+section {
+  padding-top: 5rem;
+}
